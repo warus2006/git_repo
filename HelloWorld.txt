@@ -1,5 +1,5 @@
 print("Hello world");
 print("Hello you too);
 
-print("Привет всем!!!");
+print("Hello everybody!!!");
 
